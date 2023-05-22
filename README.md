@@ -1,4 +1,4 @@
-## Hi there, my name is Arthur 👋
+## Hi there, my name is Arthur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I am interested in data analytics and data science projects with focus on ML/DL. Feel free to reach out to me for collaboration on interesting projects!
 <p><a href="https://www.linkedin.com/in/arthur-rostami/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a>
