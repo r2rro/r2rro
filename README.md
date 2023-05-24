@@ -9,7 +9,7 @@ I am interested in Data Analytics and Data Science projects with a focus on ML/D
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
-!(https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 
 
